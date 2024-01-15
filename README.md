@@ -25,3 +25,13 @@ npm run seed
 ```bash
 npm run dev
 ```
+
+## API
+
+Base Endpoint: `localhost:3333/api/tasks`
+
+`GET` - `/` - Paginated Tasks\
+Optional Query Params:
+
+- `page`
+- `perPage`
